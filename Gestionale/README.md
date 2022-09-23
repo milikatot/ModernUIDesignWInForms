@@ -1,0 +1,2 @@
+﻿# Gestionale responsive WinForms
+
