@@ -41,10 +41,13 @@
             this.pjTextBox1.ForeColor = System.Drawing.Color.DimGray;
             this.pjTextBox1.Location = new System.Drawing.Point(66, 74);
             this.pjTextBox1.Margin = new System.Windows.Forms.Padding(4);
+            this.pjTextBox1.Multiline = false;
             this.pjTextBox1.Name = "pjTextBox1";
             this.pjTextBox1.Padding = new System.Windows.Forms.Padding(7);
+            this.pjTextBox1.PasswordChar = false;
             this.pjTextBox1.Size = new System.Drawing.Size(250, 32);
             this.pjTextBox1.TabIndex = 0;
+            this.pjTextBox1.Texts = "";
             this.pjTextBox1.UnderLinedStyle = true;
             // 
             // pjTextBox2
@@ -56,10 +59,13 @@
             this.pjTextBox2.ForeColor = System.Drawing.Color.DimGray;
             this.pjTextBox2.Location = new System.Drawing.Point(66, 157);
             this.pjTextBox2.Margin = new System.Windows.Forms.Padding(4);
+            this.pjTextBox2.Multiline = false;
             this.pjTextBox2.Name = "pjTextBox2";
             this.pjTextBox2.Padding = new System.Windows.Forms.Padding(7);
+            this.pjTextBox2.PasswordChar = true;
             this.pjTextBox2.Size = new System.Drawing.Size(250, 32);
             this.pjTextBox2.TabIndex = 1;
+            this.pjTextBox2.Texts = "";
             this.pjTextBox2.UnderLinedStyle = true;
             // 
             // Form1
